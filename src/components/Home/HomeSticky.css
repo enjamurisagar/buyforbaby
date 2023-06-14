@@ -1,0 +1,10 @@
+.home-sticky {
+  width: 100%;
+  height: 100%;
+  position: sticky;
+  top: 4rem;
+  z-index: -99;
+}
+.home-sticky img {
+  width: 100%;
+}

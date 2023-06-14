@@ -1,0 +1,115 @@
+.store-single-product-main {
+  width: 100%;
+  height: 100%;
+}
+.store-single-spinner {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.store-single-container {
+  width: 90%;
+  margin: auto;
+}
+.store-single-card {
+  margin: 2rem 0;
+  padding: 2rem 1.5rem;
+  display: flex;
+  border-radius: 20px;
+  border: 2px solid #000;
+}
+.store-single-card:hover {
+  background: lightblue;
+}
+.store-single-data {
+  margin: 0 2rem;
+}
+.store-single-data .name {
+  margin: 0.75rem 0;
+  font-size: 25px;
+}
+.store-single-data .details span {
+  font-weight: 900;
+}
+.store-single-data .details {
+  font-size: 17 px;
+  margin: 0.5rem 0;
+}
+.store-single-card .img {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+}
+.store-single-card .img img {
+  width: 250px;
+  cursor: pointer;
+  border-radius: 20px;
+}
+.store-single-qty-wrapper {
+  margin: 2rem 0;
+}
+.store-single-qty-wrapper span {
+  padding: 0.75rem;
+  border: 1px solid #000;
+  background: #fff;
+}
+.store-single-qty-wrapper .store-single-minus {
+  border-right: none;
+  cursor: pointer;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.store-single-qty-wrapper .store-single-plus {
+  border-left: none;
+  cursor: pointer;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.store-single-price {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+.store-single-btn {
+  margin: 1rem 0;
+  padding: 0.5rem 0.75rem;
+  background: none;
+  outline: none;
+  border: 2px solid #000;
+  border-radius: 15px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.you-may-like-name {
+  width: 90%;
+  margin: auto;
+}
+.may-like-marquee {
+  z-index: 0;
+}
+.may-like-img {
+  display: flex;
+  justify-content: center;
+  margin: 0.5rem 0;
+}
+.may-like-img img {
+  width: 200px;
+}
+.may-like-container {
+  padding: 1rem;
+  width: 300px;
+}
+.may-like-data {
+  padding: 1rem;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+.may-like-data h3 {
+  font-size: 15px;
+}
+.may-like-price p {
+  margin: 0.5rem 0;
+  display: flex;
+  align-items: center;
+}

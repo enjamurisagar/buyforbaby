@@ -1,0 +1,77 @@
+.login-main {
+  width: 100%;
+  height: 80vh;
+
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 50%;
+  height: 50%;
+  position: relative;
+  top: 4rem;
+  left: 0;
+  border-radius: 15px;
+  border: 2px solid #000;
+}
+.login {
+  margin: 2rem auto;
+  width: 90%;
+  height: 30%;
+  padding: 1rem;
+}
+.login h1 {
+  font-size: 20px;
+}
+.login-btn {
+  margin: 2rem 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.login-btn button {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  outline: none;
+  background: none;
+  border: 2px solid #000;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.login-btn button p {
+  margin: 0 0.25rem;
+}
+.login-mid {
+  align-items: center;
+  display: flex;
+  margin: 3rem;
+}
+.login-mid-l,
+.login-mid-r {
+  width: 47%;
+  height: 1.5px;
+  background: #424242;
+}
+.login-mid-m {
+  width: 6%;
+  display: flex;
+  justify-content: center;
+}
+.signup {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.signup p {
+  font-size: 15px;
+}
+.signup button {
+  cursor: pointer;
+  text-decoration: underline;
+  margin: 0 0.5rem;
+  background: none;
+  outline: none;
+  border: none;
+}

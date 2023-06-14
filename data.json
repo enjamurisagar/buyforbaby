@@ -1,0 +1,33 @@
+[
+  null,
+  {
+    "description": "Babies Fashion | Upto 24M",
+    "id": 1,
+    "image": "https://firebasestorage.googleapis.com/v0/b/buy-for-baby.appspot.com/o/offers%2Foffers1.jpg?alt=media&token=2925082d-1ec6-4edc-84b9-660dc5a2218e",
+    "name": "Babies Fashion | Upto 24M"
+  },
+  {
+    "description": "Ethnic Wear For Them",
+    "id": 2,
+    "image": "https://firebasestorage.googleapis.com/v0/b/buy-for-baby.appspot.com/o/offers%2F29916.jpg?alt=media&token=475dff23-f22d-4c9f-ab85-0d7d5ae84a54",
+    "name": "Trendy Festive Looks | 2-14Y"
+  },
+  {
+    "description": "",
+    "id": 3,
+    "image": "https://firebasestorage.googleapis.com/v0/b/buy-for-baby.appspot.com/o/offers%2F29918.jpg?alt=media&token=af617af6-8674-459f-ba41-30151db99142",
+    "name": "Iconic Footwear For Your Kids"
+  },
+  {
+    "description": "",
+    "id": 4,
+    "image": "https://firebasestorage.googleapis.com/v0/b/buy-for-baby.appspot.com/o/offers%2F29923.jpg?alt=media&token=c738bb3c-3fa3-4d81-8c37-841dc133efcf",
+    "name": "Be Beautiful | Up to 14"
+  },
+  {
+    "id": 5,
+    "name": "Get Ready to be Amazed | Upto 14Y",
+    "description": "Straight from The Fresh Collection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/buy-for-baby.appspot.com/o/offers%2F5.jpg?alt=media&token=17376558-7b16-4c7f-9921-17d85b639d33"
+  }
+]

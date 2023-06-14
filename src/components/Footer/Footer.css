@@ -1,0 +1,86 @@
+.footer-main {
+  background: lightblue;
+  margin: 4rem 0 0 0;
+  padding: 2rem 2rem 0.25rem 2rem;
+  border-top-left-radius: 40px;
+  border-top-right-radius: 40px;
+  display: grid;
+}
+.footer-container {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.foot-l,
+.foot-mid,
+.foot-r {
+  display: grid;
+
+  padding: 2rem;
+}
+.foot-l h2 {
+  text-align: center;
+  margin: 0.5rem 0;
+}
+.foot-l .social-media {
+  margin: 1rem 0;
+}
+
+.social-media a {
+  font-size: 25px;
+  margin: 0 0.5rem;
+  color: #000;
+}
+
+.foot-mid h1 {
+  font-size: 25px;
+}
+.foot-mid ul {
+  list-style: none;
+  margin: 1rem 0;
+}
+
+.foot-mid ul li {
+  cursor: pointer;
+  margin: 0.5rem 0;
+  text-decoration: underline;
+}
+.foot-r h1 {
+  font-size: 25px;
+}
+
+.foot-r .footer-form {
+  display: grid;
+}
+.footer-form .foot-input {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.foot-input input {
+  width: 70%;
+  outline: none;
+  background: none;
+  border: none;
+  border-bottom: 2px solid #000;
+  padding: 0.25rem 0;
+  font-size: 17px;
+}
+.subscribe-btn {
+  cursor: pointer;
+  background: none;
+  padding: 0.5rem 1.5rem;
+  margin: 0.5rem 0;
+  border: 2px solid #000;
+  border-radius: 5px;
+}
+.subscribe-btn:hover {
+  background: #000;
+  color: #fff;
+}
+
+.footer-last {
+  display: flex;
+  justify-content: center;
+}

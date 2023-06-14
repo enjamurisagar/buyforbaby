@@ -1,0 +1,25 @@
+.main {
+  width: 100%;
+  display: block;
+  z-index: 1;
+}
+.nav-main {
+  width: 100%;
+  margin: auto;
+  height: 4rem;
+  background: yellow;
+  position: fixed;
+}
+.nav {
+  height: 100%;
+  width: 95%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-r .a {
+  margin-left: 2rem;
+  text-decoration: none;
+  color: #000;
+}

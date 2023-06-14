@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  transition: 0.3s;
+}
+
+.app-main {
+  width: 100%;
+  display: block;
+  z-index: 1;
+  position: absolute;
+  top: 0;
+
+  /* overflow-x: hidden; */
+}
+.nav-main {
+  width: 100%;
+  background: transparent;
+  height: 4rem;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.nav {
+  width: 90%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-r .a {
+  text-decoration: none;
+  color: #000;
+  margin-right: 1.5rem;
+}
+
+/***CHANGE NAV ABR BG WHEN WINDOW SCROLL >= 100**/
+.change-nav-bg {
+  background: #ffffff;
+
+  height: 4rem;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  width: 100%;
+}
+
+/*** RESPONSIVE FOR LAPTOPS ***/
+
+/***FOR LARGE DEVICE ****/
+@media screen and (max-width: 972px) {
+}
+/*** FOR MEDIUM DEVICES ***/
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+}
+
+/*** FOR SMALL DEVICES ***/
+@media screen and (max-width: 350px) {
+}

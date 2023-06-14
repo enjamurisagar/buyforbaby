@@ -1,0 +1,76 @@
+.offer-detail.main {
+  width: 100%;
+}
+.offer-detail-container {
+  width: 90%;
+  margin: 3rem auto;
+  padding: 2rem 0;
+  display: flex;
+  background: none;
+  border-radius: 20px;
+  border: 2px solid #000;
+}
+.offer-detail-container:hover {
+  background: lightblue;
+}
+
+.offer-detail-l {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.offer-detail-img {
+  width: 50%;
+  border-radius: 20px;
+}
+.offer-detail-r {
+  width: 50%;
+}
+
+.qty {
+  display: flex;
+  margin: 2rem 0;
+}
+.qty p {
+  padding: 1rem;
+  border: 1px solid #000;
+  font-size: 20px;
+  background: #fff;
+}
+.qty .minus {
+  cursor: pointer;
+  border-right: none;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.qty .minus:hover {
+  background: rgb(255, 67, 67);
+}
+.qty .plus {
+  cursor: pointer;
+  border-left: none;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.qty .plus:hover {
+  background: lightgreen;
+}
+.loader {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-offer-btn {
+  margin: 1rem 0;
+}
+.home-offer-button {
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  background: #fff;
+  outline: none;
+  border: 2px solid #000;
+  font-size: 18px;
+  border-radius: 10px;
+}

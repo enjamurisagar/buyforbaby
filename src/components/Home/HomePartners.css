@@ -1,0 +1,26 @@
+.home-partners-main {
+  width: 100%;
+  background: #fff;
+}
+.partners-container {
+  width: 90%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
+.partners-container .partner-img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+}
+.partners-container .partner-img img {
+  width: 60%;
+  border: 5px solid lightblue;
+  border-radius: 10%;
+}
+.partners-text {
+  text-align: center;
+  font-size: 30px;
+  padding: 2rem 0;
+}

@@ -1,0 +1,89 @@
+.store-category-main {
+  width: 100%;
+  display: flex;
+}
+.store-category-main .store-nav-bar {
+  width: 10%;
+}
+/***SPINNER ****/
+.store-spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.cats-data {
+  width: 90%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.cat-container {
+  border: 2px solid #000;
+  border-radius: 15px;
+  margin: 1rem;
+  padding: 1rem;
+}
+.cats {
+  display: grid;
+  height: 100%;
+  width: 100%;
+}
+
+.cat-container:hover .cat-img img {
+  width: 265px;
+}
+
+.cat-img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.cat-img a {
+  display: flex;
+  justify-content: center;
+}
+.cat-img img {
+  width: 250px;
+}
+.cat-data {
+  padding: 0.5rem;
+}
+.cat-data-name {
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0.75rem 0;
+}
+.cat-data-desc {
+  font-size: 12px;
+  margin: 0.5rem 0;
+}
+.cat-data-reviews {
+  font-size: 12px;
+}
+
+.cat-data-price {
+  display: flex;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+.cat-cart-btn {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.cat-btn {
+  padding: 0.5rem;
+  font-size: 15px;
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+}
+.stars {
+  display: flex;
+  font-size: 14px;
+  color: rgb(255, 136, 0);
+  margin: 0.5rem 0;
+}
