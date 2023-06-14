@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/buyforbaby/static/css/main.23eb9af1.css",
+    "main.js": "/buyforbaby/static/js/main.30d23f34.js",
+    "static/js/726.078814cb.chunk.js": "/buyforbaby/static/js/726.078814cb.chunk.js",
+    "static/media/store_gif.gif": "/buyforbaby/static/media/store_gif.33d0bd58b63c1f0b21eb.gif",
+    "static/media/slide4.png": "/buyforbaby/static/media/slide4.feed600af7299c4e3b4f.png",
+    "static/media/slide5.png": "/buyforbaby/static/media/slide5.28bca030d04a4a401596.png",
+    "static/media/home.png": "/buyforbaby/static/media/home.18b9c8b8a33e1d203148.png",
+    "static/media/diaper-rash-cream.jpg": "/buyforbaby/static/media/diaper-rash-cream.20bbc2d61ec0c2f5c9d8.jpg",
+    "static/media/search_gif.gif": "/buyforbaby/static/media/search_gif.ea1aba5deb5372fc1571.gif",
+    "static/media/dishes.jpg": "/buyforbaby/static/media/dishes.77b6f97825a97e920c90.jpg",
+    "static/media/home-cat.jpg": "/buyforbaby/static/media/home-cat.29a4b4038df4e05278e3.jpg",
+    "static/media/feeding-bootle.jpg": "/buyforbaby/static/media/feeding-bootle.1865f58ed0dc2f46abd5.jpg",
+    "static/media/diapers.jpg": "/buyforbaby/static/media/diapers.b7be7dbf63810783c60b.jpg",
+    "static/media/wipes.jpg": "/buyforbaby/static/media/wipes.f075ebd5cc742c36e14b.jpg",
+    "static/media/bathers.jpg": "/buyforbaby/static/media/bathers.c073175417cc4c90a4d4.jpg",
+    "static/media/soaps-shampoos.png": "/buyforbaby/static/media/soaps-shampoos.0eb11301c67626bf8372.png",
+    "static/media/teethers.jpg": "/buyforbaby/static/media/teethers.7ee74efdebffc630b094.jpg",
+    "static/media/grooming.jpg": "/buyforbaby/static/media/grooming.f2be99660734d6e780eb.jpg",
+    "static/media/creams.jpg": "/buyforbaby/static/media/creams.a4c2e68351a0edefad95.jpg",
+    "index.html": "/buyforbaby/index.html",
+    "main.23eb9af1.css.map": "/buyforbaby/static/css/main.23eb9af1.css.map",
+    "main.30d23f34.js.map": "/buyforbaby/static/js/main.30d23f34.js.map",
+    "726.078814cb.chunk.js.map": "/buyforbaby/static/js/726.078814cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23eb9af1.css",
+    "static/js/main.30d23f34.js"
+  ]
+}
